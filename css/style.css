@@ -333,11 +333,11 @@ figure figcaption {
     position: relative;
 }
 
-@media screen and (min-width: 992px) {
-    #colorlib-hero .flexslider .slides li {
-        background-image: url(../images/speaking_at_identity_north_1024.png);
-    }
-}
+/*@media screen and (min-width: 992px) {*/
+/*    #colorlib-hero .flexslider .slides li {*/
+/*        background-image: url(../images/speaking_at_identity_north_1024.png);*/
+/*    }*/
+/*}*/
 
 #colorlib-hero .flexslider .flex-control-nav {
     bottom: 20px;
